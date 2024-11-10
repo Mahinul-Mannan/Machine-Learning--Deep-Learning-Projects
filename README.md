@@ -37,12 +37,6 @@ Numpy
 ### Installation
 To set up the environment, clone this repository and install the necessary dependencies.
 
-#### Clone the repository:
-
-git clone https://github.com/yourusername/Car-Purchase-Amount-Prediction-Project.git
-Install dependencies (create a virtual environment and activate it first):
-
-pip install -r requirements.txt
 #### Files
 car_purchase_data.csv: The dataset containing customer data.
 Car Purchase Amount Prediction.ipynb: Jupyter notebook implementing the project.
