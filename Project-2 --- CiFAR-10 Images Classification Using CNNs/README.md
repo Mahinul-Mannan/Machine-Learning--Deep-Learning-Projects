@@ -89,20 +89,20 @@ The primary goal is to build a robust CNN model to accurately classify images in
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mahinul-Mannan/cifar10-cnn.git
+   git clone **[CiFAR-10 Image Classification Using CNNs](https://github.com/Mahinul-Mannan/Machine-Learning--Deep-Learning-Projects/blob/main/Project-2%20---%20CiFAR-10%20Images%20Classification%20Using%20CNNs/Mahin's%20Project%202%20-%20CiFAR-10%20Images%20Classification%20Using%20CNNs.ipynb)**
    cd cifar10-cnn
 
 ## File Structure
 plaintext
 Copy code
-  ```bash
-  cifar10-cnn/
-  │
-  ├── cifar10_classification.ipynb  # Jupyter notebook with implementation
-  ├── saved_models/                # Directory to save trained models
-  ├── data/                        # (Optional) Dataset folder, if required
-  ├── README.md                    # Documentation
-  └── requirements.txt             # Dependencies
+    ```bash
+    cifar10-cnn/
+    │
+    ├── cifar10_classification.ipynb  # Jupyter notebook with implementation
+    ├── saved_models/                # Directory to save trained models
+    ├── data/                        # (Optional) Dataset folder, if required
+    ├── README.md                    # Documentation
+    └── requirements.txt             # Dependencies
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
