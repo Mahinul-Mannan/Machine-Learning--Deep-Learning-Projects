@@ -94,14 +94,14 @@ The primary goal is to build a robust CNN model to accurately classify images in
 ## File Structure
 plaintext
 Copy code
-    ```bash
-    cifar10-cnn/
-    │
-    ├── cifar10_classification.ipynb  # Jupyter notebook with implementation
-    ├── saved_models/                # Directory to save trained models
-    ├── data/                        # (Optional) Dataset folder, if required
-    ├── README.md                    # Documentation
-    └── requirements.txt             # Dependencies
+cifar10-cnn/
+│
+├── cifar10_classification.ipynb  # Jupyter notebook with implementation
+├── saved_models/                # Directory to save trained models
+├── data/                        # (Optional) Dataset folder, if required
+├── README.md                    # Documentation
+└── requirements.txt             # Dependencies
+
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
