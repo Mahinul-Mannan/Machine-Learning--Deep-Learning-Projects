@@ -88,8 +88,7 @@ The primary goal is to build a robust CNN model to accurately classify images in
 
 ### Steps
 1. Clone the repository:
-   ```bash
-   git clone **[CiFAR-10 Image Classification Using CNNs](https://github.com/Mahinul-Mannan/Machine-Learning--Deep-Learning-Projects/blob/main/Project-2%20---%20CiFAR-10%20Images%20Classification%20Using%20CNNs/Mahin's%20Project%202%20-%20CiFAR-10%20Images%20Classification%20Using%20CNNs.ipynb)**
+      git clone **[CiFAR-10 Image Classification Using CNNs](https://github.com/Mahinul-Mannan/Machine-Learning--Deep-Learning-Projects/blob/main/Project-2%20---%20CiFAR-10%20Images%20Classification%20Using%20CNNs/Mahin's%20Project%202%20-%20CiFAR-10%20Images%20Classification%20Using%20CNNs.ipynb)**
    cd cifar10-cnn
 
 ## File Structure
