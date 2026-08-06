@@ -1,4 +1,4 @@
-# 🏢 Customer 360 Analytics Platform
+# 🏢 01_Customer 360 Analytics Platform
 
 **Churn Prediction & AI Retention Advisor**
 
