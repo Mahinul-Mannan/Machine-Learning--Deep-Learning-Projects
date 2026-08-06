@@ -7,8 +7,9 @@ Welcome to my project portfolio! I'm a Data Scientist and Machine Learning Engin
 ## ⭐ Featured Project: Customer 360 Analytics Platform
 
 **Status:** 🟢 End-to-End ML Platform (Live Demo Ready)
-## 🚀 Live Demo
-👉 [Click here to view the live application](https://machine-learning--deep-learning-projects-9a7ltmgsw7bscuq2qxoyn.streamlit.app)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://machine-learning--deep-learning-projects-9a7ltmgsw7bscuq2qxoyn.streamlit.app/)  
+[![GitHub](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahinul-Mannan/Machine-Learning--Deep-Learning-Projects/tree/main/01_Customer_360_Platform)
 
 This is my flagship project, demonstrating a complete production-grade Machine Learning system.
 
@@ -23,7 +24,15 @@ This is my flagship project, demonstrating a complete production-grade Machine L
   - **GenAI Advisory:** RAG-powered advisor using LLaMA 3 and Qdrant to suggest retention strategies based on SHAP outputs.
   - **MLOps:** Docker, MLflow for experiment tracking.
 
-📂 **Folder:** [`01_Customer_360_Platform/`](https://github.com/Mahinul-Mannan/Machine-Learning--Deep-Learning-Projects/tree/main/01_Customer_360_Platform)
+---
+
+## 🚀 Live Demo
+
+Experience the platform in action:  
+👉 **[Launch Customer 360 Dashboard](https://machine-learning--deep-learning-projects-9a7ltmgsw7bscuq2qxoyn.streamlit.app/)**  
+
+> ⚡ *Try it yourself — enter customer data and see churn predictions in real-time.*  
+> ℹ️ The backend API runs locally, so predictions in the cloud demo are simulated for UI demonstration.
 
 ---
 
@@ -58,7 +67,7 @@ This is my flagship project, demonstrating a complete production-grade Machine L
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn]() - *[https://www.linkedin.com/in/mahinulmannan/]*
-- 📧 Email: *[mmansib@outlook.com]*
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahinulmannan/)  
+- 📧 Email: mmansib@outlook.com
 
-*Feel free to explore the repositories and reach out for any questions or collaborations!*]
+*Feel free to explore the repositories and reach out for any questions or collaborations!*
