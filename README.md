@@ -7,6 +7,8 @@ Welcome to my project portfolio! I'm a Data Scientist and Machine Learning Engin
 ## ⭐ Featured Project: Customer 360 Analytics Platform
 
 **Status:** 🟢 End-to-End ML Platform (Live Demo Ready)
+## 🚀 Live Demo
+👉 [Click here to view the live application](https://machine-learning--deep-learning-projects-9a7ltmgsw7bscuq2qxoyn.streamlit.app)
 
 This is my flagship project, demonstrating a complete production-grade Machine Learning system.
 
