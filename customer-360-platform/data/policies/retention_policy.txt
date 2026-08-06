@@ -1,0 +1,23 @@
+Company Retention Policy
+
+1. For customers with Month-to-month contracts:
+   - If they have been with us for less than 6 months, offer them a 10% discount on their next 3 bills.
+   - If they have been with us for more than 6 months, offer a free month of service or a premium feature upgrade.
+
+2. For customers with One-year contracts:
+   - Offer a loyalty bonus of $50 credit if they renew for another year.
+   - If they are at high risk of churn, assign a dedicated account manager to address their concerns.
+
+3. For customers with Two-year contracts:
+   - Provide a premium support package (priority call routing, faster resolution).
+   - Offer a complimentary service review to identify cost-saving opportunities.
+
+4. For all customers:
+   - If monthly charges are above $80, consider offering a bundle discount.
+   - If total transactions are low (less than 5 in 3 months), send a re-engagement email with personalized offers.
+   - For customers with recency days > 30, send a reactivation campaign with a special incentive.
+
+5. General Guidelines:
+   - Always prioritize customers with churn probability > 0.7 (70%).
+   - Use customer feedback to tailor retention offers.
+   - Monitor the effectiveness of retention campaigns and adjust strategies accordingly.
