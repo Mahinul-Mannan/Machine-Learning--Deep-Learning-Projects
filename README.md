@@ -1,4 +1,4 @@
-[# Mahinul Mannan's Data Science & ML Portfolio
+# Mahinul Mannan's Data Science & ML Portfolio
 
 Welcome to my project portfolio! I'm a Data Scientist and Machine Learning Engineer passionate about building end-to-end AI solutions, from data engineering to production deployment.
 
@@ -59,4 +59,4 @@ This is my flagship project, demonstrating a complete production-grade Machine L
 - 💼 [LinkedIn]() - *[https://www.linkedin.com/in/mahinulmannan/]*
 - 📧 Email: *[mmansib@outlook.com]*
 
-*Feel free to explore the repositories and reach out for any questions or collaborations!*](https://www.linkedin.com/in/mahinulmannan/)
+*Feel free to explore the repositories and reach out for any questions or collaborations!*]
